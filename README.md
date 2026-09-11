@@ -146,3 +146,5 @@ Phone: 4044826115
 Linkedin: https://www.linkedin.com/in/agnes-iwaye/
 
 **Feel free to explore my repositories to see how I approach project planning, stakeholder management, product delivery, process improvement, risk management, and business analysis**.
+
+Please note that all the figures and numbers are synthetic data to protect company policy and privacy.
