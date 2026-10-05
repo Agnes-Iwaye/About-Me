@@ -86,7 +86,7 @@ This GitHub portfolio highlights selected projects that demonstrate how I approa
 - Change Control
 - Risk Management
 - Stakeholder Communication
-- Process Mapping :contentReference[oaicite:5]{index=5}
+- Process Mapping 
 
 ## What You'll Find in My Portfolio
 
@@ -110,7 +110,7 @@ Each project is structured around the business problem, my role, actions taken, 
 - **Certified ScrumMaster (CSM)**
 - **Certified Scrum Product Owner (CSPO)**
 - **Google Project Management Certificate**
-- **HIPAA Certified** :contentReference[oaicite:6]{index=6}
+- **HIPAA Certified** 
 
 ## Education
 
